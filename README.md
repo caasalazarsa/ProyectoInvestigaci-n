@@ -10,3 +10,7 @@ Ejemplo (https://www.overleaf.com/read/fcfrjpjbgfry) Documento de latex de ejemp
 ## Bibtex a excel
 
 Converter (https://www.bibtex.com/c/bibtex-to-excel-converter/) convertidor bibtex a excel
+
+## 
+
+ESP32 analogread micropython(https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
